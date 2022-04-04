@@ -1,0 +1,179 @@
+.col-md-3 {
+    margin-top: 20px;
+    padding-bottom: auto;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+            
+  }
+ 
+  
+  .encabezado {
+    width: 100%;
+    background-color: rgb(250, 250, 250);
+    border-radius: 10px;
+    border: none;
+    padding: 5%;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: start;
+            padding-bottom: 50px;
+  }
+  
+  .boton1 {
+    width: 100%;
+    background-color: transparent;
+    border: 1px solid blue;
+    border-radius: 5px;
+    font-family: inherit;
+    font-size: small;
+    font-weight: 600;
+    color: blue;
+  }
+  
+  .boton2 {
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    font-family: inherit;
+    font-size: small;
+    font-weight: 600;
+    color: blue;
+  }
+  
+  h6 {
+    font-size: medium;
+    font-weight: 400;
+    text-align: justify;
+  }
+  
+  h4 {
+    font-weight: 400;
+    text-align: justify;
+  }
+  
+  /* Segunda barra  */
+  .Nav1 {
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+  }
+  
+  .container-fluid {
+    padding: 2%;
+  }
+  
+  .logoss {
+    width: 20px;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: black;
+  }
+  
+  /* tercera barra  */
+  .other {
+    font-weight: bold;
+    font-size: medium;
+  }
+  
+  /* Quinta barra  */
+  div.scrollmenu {
+    width: 90%;
+    color: black;
+    overflow: scroll;
+    height: 500px;
+    padding: 10px;
+  }
+  
+  div.scrollmenu a {
+    overflow: scroll;
+    color: black;
+    text-align: center;
+    padding: 2px;
+    text-decoration: none;
+  }
+  
+  div.scrollmenu a:hover {
+    background-color: #7a8be6;
+    width: 100px;
+  }
+  
+  /* Sexta  barra  */
+  .encabezado2 {
+    font-size: medium;
+    font-weight: 800;
+    background-color: #e6e6e6;
+    width: 90%;
+    border-radius: 10px;
+    border: none;
+    padding: 10%;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  
+  .texto4 {
+    font-size: medium;
+    font-weight: 800;
+  }
+  
+  .encabezado3 {
+    font-size: medium;
+    font-weight: 800;
+    background-color: #e6e6e6;
+    width: 90%;
+    border-radius: 10px;
+    border: none;
+    padding: 10%;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  
+  .texto5 {
+    font-size: medium;
+    font-weight: 400;
+  }
+  
+  .texto6 {
+    font-size: medium;
+    font-weight: 800;
+    color: blue;
+  }
+  
+  .encabezado a{
+    color:blue;
+    font-weight: 500;
+  }
+
+  .encabezado a:hover{
+    background-color: #e6e6e6;
+    text-decoration: underline;
+    color: rgb(20, 20, 160);
+  }
+
+  .encabezado1 span button1{
+    background-color: blue;
+    color: white;
+
+  }
+
+  .Nav1 a:hover{
+color:blue;
+background-color: rgb(214, 214, 220);
+text-decoration: underline;
+  }
+
+  .barra ul a:hover{
+    color:blue;
+background-color: rgb(214, 214, 220);
+text-decoration: underline;
+padding: 2px, 50px 1px 0px;
+  }
+
+
